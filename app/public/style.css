@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: coral;
+}
+
+p {
+    text-decoration: dashed;
+}
+
+small {
+    font-weight: 100;
+}
